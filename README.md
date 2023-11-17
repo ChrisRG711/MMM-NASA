@@ -1,4 +1,6 @@
 ## MMM-NASA
+building off of https://github.com/mykle1/MMM-NASA 
+looking to maintain and advance functionality
 Stunning imagery and information about your universe. Looks amazing on your mirror!
 
 Brought to you by NASA's Hubble, Spitzer and Galaxy Evolution Explorer Telescopes. (And others)
